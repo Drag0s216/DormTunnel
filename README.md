@@ -1,5 +1,3 @@
-> This project is no longer active. The VPS subscription was not renewed, and all functionality has been migrated to the **Pi Keeper** setup.
-
 # 🌐 VPS-Kamatera
 
 > This project is no longer active. The VPS subscription was not renewed, and all functionality has been migrated to the **Pi Keeper** setup.
